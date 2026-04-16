@@ -5,7 +5,6 @@ permalink: /education/
 author_profile: true
 ---
 
-# Education
 
 ## School of Economics, Central University of Finance and Economics
 - Ph.D in Economics, 2023.09-2027.6 (estimated)
