@@ -5,7 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-## Honors and Awards
 
 - **Outstanding Award (Graduate Division)**, The 6th Future Economists Forum
   
