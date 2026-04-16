@@ -1,4 +1,4 @@
----
+<img width="432" height="12" alt="image" src="https://github.com/user-attachments/assets/7403225e-ebed-4524-9ca8-617e172647b8" /><img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/8e2bd85a-130d-48e5-b14f-06d681fe7836" /><img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/fa6d240a-f721-4e51-84eb-bf2320993bf4" />---
 layout: single
 title: "Research"
 permalink: /research/
@@ -8,16 +8,24 @@ author_profile: true
 # Publications
 
 ## Forecasting GDP Growth Rates Using Accounting Earnings: A Large Panel Microdata Approach
-- *Management Science*, 2026, Forthcoming
+- *Management Science*, 2026, Forthcoming; UTD 24，FT 50，ABS 4*，SSCI JCR Q1
 - With Yongmiao Hong (UCAS), Naijing Huang (CUFE), Yicheng Wang (PKU)
 - Abstract: Economists and econometricians typically use aggregate economic and financial variables for gross domestic product (GDP) prediction. However, aggregation often results in a loss of valuable information, diminishing key features such as heterogeneity, interactions, nonlinearity, and structural breaks. We propose a novel microforecasting approach, using large panel data of firm accounting earnings from corporate financial reports to forecast GDP. By employing machine learning methods, we can effectively exploit this large microlevel information set to achieve substantially more accurate GDP forecasts. Our findings highlight the advantages and potential of utilizing microlevel data for macroprediction, diverging from the conventional macroforecasting paradigm that relies on aggregate data to forecast macrovariables.
 - [Paper link.](https://doi.org/10.1287/mnsc.2025.01549)
 
 ## Do Asset Prices Help Predict Inflation? Evidence from Individual Stock Prices
-- *Journal of Business & Economic Statistics*, 2026, Forthcoming
+- *Journal of Business & Economic Statistics*, 2026, Forthcoming; ABS 4，SSCI JCR Q1
 - With Yongmiao Hong (UCAS), Naijing Huang (CUFE), Yicheng Wang (PKU)
 - Abstract: This paper revisits the predictive power of asset prices for inflation, focusing on individual stock prices rather than aggregate indices. Using a large panel data of firm-level stock prices and applying machine learning techniques, we demonstrate that individual stock prices significantly enhance the accuracy of inflation forecasts, particularly over medium- to long-term horizons and during periods of high inflationary and deflationary pressure. Compared to composite and industry-level stock indices, other aggregate asset prices, and Fama-French factors, individual stock prices contain valuable heterogeneous information, offering richer insights for inflation forecasting. These findings provide new empirical support for macro-finance theory, affirming the predictive value of asset prices from a micro-level perspective.
 - [Paper link.](https://doi.org/10.1080/07350015.2026.2654899)
+
+# Working Paper
+## Inflation Forecasting Information in Chinese Stock Prices: Evidence from a Micro-Level Perspective
+- Revise and Resubmit in _Economic Research Journal_
+- With Naijing Huang (CUFE), Yongmiao Hong (UCAS), Yuqing Qi (CUFE)
+
+## Revisiting the Meese-Rogoff Puzzle: Evidence from Financial Intermediaries
+- With Yongmiao Hong (UCAS), Naijing Huang (CUFE), Yicheng Wang (PKU)
 
 # Conferences
 ## International Conferences
