@@ -1,11 +1,9 @@
 ---
 layout: single
-title: "Service"
+title: "Academic Service"
 permalink: /service/
 author_profile: true
 ---
-
-# Academic Service
 
 ## Teaching Assistant
 - *Academic Writing Guidance I*  
