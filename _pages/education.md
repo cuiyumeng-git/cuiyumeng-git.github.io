@@ -18,4 +18,4 @@ author_profile: true
 
 ## School of Mathematics, Shandong University
 - Bachelor in Statistics, 2017.09-2021.06
-- Superisor: Prof. Ying Peng
+- Supervisor: Prof. Ying Peng
