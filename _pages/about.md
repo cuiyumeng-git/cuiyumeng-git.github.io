@@ -13,7 +13,7 @@ redirect_from:
 
 I am a Ph.D candidate in Economics at School of Economics in Central University of Finance and Economics. 
 
-My research interests lie in **macroeconomic forecasting**, **machine learning in economics**, and data-driven economic analysis.
+My research interests lie in **macroeconomic forecasting**, **machine learning in economics**, and **data-driven economic analysis**.
 
 My work has appeared in *Management Science* and *Journal of Business & Economic Statistics*, as well as *ESWC 2025* and *IAAE 2025*.
 
