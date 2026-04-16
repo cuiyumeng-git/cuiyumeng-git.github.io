@@ -1,4 +1,4 @@
-<img width="432" height="12" alt="image" src="https://github.com/user-attachments/assets/087452fa-0b2f-40d0-8a31-4aa0014751f7" /><img width="432" height="12" alt="image" src="https://github.com/user-attachments/assets/a96c8121-b00d-4aed-aed6-8248e4b323ea" /><img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/e5cc8e3a-189e-4e75-8dce-defa4781cb5a" />---
+---
 layout: single
 title: "Research"
 permalink: /research/
