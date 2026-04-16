@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Posts"
-permalink: /posts/
+title: "Post"
+permalink: /post/
 author_profile: true
 ---
 
