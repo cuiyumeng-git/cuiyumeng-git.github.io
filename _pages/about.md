@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<br>
+<br>
+<br>
+<br>
 
 I am a Ph.D candidate in Economics at School of Economics in Central University of Finance and Economics. 
 
