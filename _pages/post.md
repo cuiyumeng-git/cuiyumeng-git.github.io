@@ -8,8 +8,12 @@ author_profile: true
 
 <br>
 
+## Collection
+
 A collection of notes, reflections, travel records, conference impressions, and occasional updates.
 
+
+## Welcome to leave a message here!
 <script src="https://giscus.app/client.js"
         data-repo="cuiyumeng-git/cuiyumeng-git.github.io"
         data-repo-id="R_kgDOSD93Iw"
@@ -21,7 +25,7 @@ A collection of notes, reflections, travel records, conference impressions, and 
         data-emit-metadata="0"
         data-input-position="top"
         data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
+        data-lang="en"
         crossorigin="anonymous"
         async>
 </script>
