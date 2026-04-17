@@ -8,6 +8,7 @@ redirect_from:
 ---
 <br>
 <br>
-CV (Chinese Version)
 
-CV (English Version)
+[CV (English Version)](/files/CV_English.pdf)
+
+[CV (Chinese Version)](/files/CV_Chinese.pdf)
