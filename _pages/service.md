@@ -11,7 +11,7 @@ author_profile: true
 - Applications of Big Data in Economics (taught in English)
 
 ## Conference Chairing
-- Session Chair, *The 13th World Congress of the Econometric Society (ESWC 2025)*
+- Session Chair, The 13th World Congress of the Econometric Society (ESWC 2025)
 
 ## Academic Competition Support
 - Co-organizer, The First China National Economy Management Case Competition
