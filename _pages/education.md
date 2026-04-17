@@ -8,7 +8,7 @@ author_profile: true
 
 ## School of Economics, Central University of Finance and Economics
 - Ph.D in Economics, 2023.09-2027.6 (estimated)
-- Supervisor: Prof. Haigang Wang, Prof. Naijing Huang
+- Supervisor: Prof. Naijing Huang
 - Fields: Macroeconomics Forecasting, Machine Learning, Big Data
 
 ## Chinese Academy of International Trade and Economics Cooperation, MOFCOM
