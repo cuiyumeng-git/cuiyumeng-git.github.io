@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 ## Teaching Assistant
-- *Academic Writing Guidance I*  
-- *Academic Writing Guidance II*  
-- *Applications of Big Data in Economics* (taught in English)
+- Academic Writing Guidance I  
+- Academic Writing Guidance II
+- Applications of Big Data in Economics (taught in English)
 
 ## Conference Chairing
 - Session Chair, *The 13th World Congress of the Econometric Society (ESWC 2025)*
 
 ## Academic Competition Support
-- Co-organizer, *The First China National Economy Management Case Competition*
+- Co-organizer, The First China National Economy Management Case Competition
 
 ## Conference and Event Organization
 - Distinguished Economists Lecture Series  
