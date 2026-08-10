@@ -16,9 +16,10 @@ author_profile: true
 ## Academic Competition Support
 - Co-organizer, The First China National Economy Management Case Competition
 
-## Conference and Event Organization
+## Conference Organization and Volunteers
+- The Third Global Doctoral Forum, CUFE
+- Advances in Econometrics Workshop (Coordinating in English)
 - Distinguished Economists Lecture Series  
 - Longma Economics Biweekly Seminar  
 - The 5th China Urban Economics Forum  
 - Seminar on Promoting High-Quality Development through Big Data Analytics under the Spirit of the 20th CPC National Congress
-- Advances in Econometrics Workshop (Coordinating in English)
