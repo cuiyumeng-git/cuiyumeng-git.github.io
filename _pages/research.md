@@ -14,21 +14,25 @@ author_profile: true
 - [Paper link.](https://doi.org/10.1287/mnsc.2025.01549)
 
 ### Do Asset Prices Help Predict Inflation? Evidence from Individual Stock Prices
-- *Journal of Business & Economic Statistics*, 2026, Forthcoming; ABS 4，SSCI JCR Q1
+- *Journal of Business & Economic Statistics*, 2026, 44(3), 1004–1017; ABS 4，SSCI JCR Q1
 - With Yongmiao Hong (UCAS), Naijing Huang (CUFE), Yicheng Wang (PKU)
 - Abstract: This paper revisits the predictive power of asset prices for inflation, focusing on individual stock prices rather than aggregate indices. Using a large panel data of firm-level stock prices and applying machine learning techniques, we demonstrate that individual stock prices significantly enhance the accuracy of inflation forecasts, particularly over medium- to long-term horizons and during periods of high inflationary and deflationary pressure. Compared to composite and industry-level stock indices, other aggregate asset prices, and Fama-French factors, individual stock prices contain valuable heterogeneous information, offering richer insights for inflation forecasting. These findings provide new empirical support for macro-finance theory, affirming the predictive value of asset prices from a micro-level perspective.
 - [Paper link.](https://doi.org/10.1080/07350015.2026.2654899)
 
 ## Working Paper
 ### Inflation Forecasting Information in Chinese Stock Prices: Evidence from a Micro-Level Perspective
-- Revise and Resubmit in _Economic Research Journal_
+- Revise and Resubmit in _Economic Research Journal_ (in Chinese)
 - With Naijing Huang (CUFE), Yongmiao Hong (UCAS), Yuqing Qi (CUFE)
 
 ### Revisiting the Meese-Rogoff Puzzle: Evidence from Financial Intermediaries
 - With Yongmiao Hong (UCAS), Naijing Huang (CUFE), Yicheng Wang (PKU)
 
+### Unlock Aggregate Signals from Financial Analyst
+- With Zeling Gao (CUFE), Naijing Huang (CUFE)
+
 ## Conferences
 ### International Conferences
+- The Third Global Doctoral Forum, Beijing China, 2026
 - The 13th World Congress of the Econometric Society (ESWC 2025), Seoul Korea, 2025
 - 2025 China Economics Society (CES) Dean Forum, Beijing China, 2025
 - Annual Conference of the International Association for Applied Econometrics (IAAE 2025), Torino Italy, 2025
@@ -44,7 +48,7 @@ author_profile: true
 
 ## Projects
 ### As Principal Investigator
-- CUFE Postgraduate Students Support Program for the Integration of Research and Teaching (Grant No. 2025208).
+- CUFE Postgraduate Students Support Program for the Integration of Research and Teaching (Grant No. 2025208). The project was the first under the program to receive approval for early completion and was awarded the First Prize for Outstanding Research Achievement.
 
 ### As Participant
 - **National Natural Science Foundation of China (NSFC General Program)** "Macroeconomic Forecasting Based on Micro Data and Large Models".
