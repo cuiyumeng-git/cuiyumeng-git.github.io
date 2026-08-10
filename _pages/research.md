@@ -48,7 +48,7 @@ author_profile: true
 
 ## Projects
 ### As Principal Investigator
-- CUFE Postgraduate Students Support Program for the Integration of Research and Teaching (Grant No. 2025208). The project was the first under the program to receive approval for early completion and was awarded the First Prize for Outstanding Research Achievement.
+- **CUFE Postgraduate Students Support Program for the Integration of Research and Teaching (Grant No. 2025208)** The project was the first to receive approval for early completion and was awarded the First Prize for Outstanding Research Achievement.
 
 ### As Participant
 - **National Natural Science Foundation of China (NSFC General Program)** "Macroeconomic Forecasting Based on Micro Data and Large Models".
